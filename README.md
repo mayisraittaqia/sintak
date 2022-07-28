@@ -1,0 +1,2 @@
+# sintak
+Created with CodeSandbox
